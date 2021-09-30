@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.b.russo\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.csproj": {}
+    "C:\\Users\\a.b.russo\\Source\\Repos\\AcademyForGirls_FY2021.1\\WebAPITest\\WebAPITest\\WebAPITest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.b.russo\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.csproj": {
+    "C:\\Users\\a.b.russo\\Source\\Repos\\AcademyForGirls_FY2021.1\\WebAPITest\\WebAPITest\\WebAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.b.russo\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.csproj",
+        "projectUniqueName": "C:\\Users\\a.b.russo\\Source\\Repos\\AcademyForGirls_FY2021.1\\WebAPITest\\WebAPITest\\WebAPITest.csproj",
         "projectName": "WebAPITest",
-        "projectPath": "C:\\Users\\a.b.russo\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.csproj",
+        "projectPath": "C:\\Users\\a.b.russo\\Source\\Repos\\AcademyForGirls_FY2021.1\\WebAPITest\\WebAPITest\\WebAPITest.csproj",
         "packagesPath": "C:\\Users\\a.b.russo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.b.russo\\source\\repos\\WebAPITest\\WebAPITest\\obj\\",
+        "outputPath": "C:\\Users\\a.b.russo\\Source\\Repos\\AcademyForGirls_FY2021.1\\WebAPITest\\WebAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.b.russo\\AppData\\Roaming\\NuGet\\NuGet.Config",
